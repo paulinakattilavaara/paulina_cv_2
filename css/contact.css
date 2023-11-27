@@ -1,0 +1,84 @@
+ .section {
+  margin: 1rem;
+} 
+
+/* länken till email */
+.contact-p {
+  padding: 0.5rem;
+  color: black;
+  font-size: 2rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.contact-p:hover {
+    color: #979494;
+}
+
+.contact {
+  margin: 1rem;
+  max-height: 50vh;
+}
+
+/* min modal: */
+.myBtn {
+  border-radius: 30px;
+  padding: 1rem;
+  font-family: Lora;
+  font-size: 1.2rem;
+  color: #fff;
+  background-color: rgb(38, 72, 60);
+  max-width: 20rem;
+  border: 4px dotted white;
+  align-self: center;
+}
+
+.myModal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(255, 255, 255, 0.873);
+}
+
+.myModalContent {
+  margin: auto;
+  padding: 1rem;
+  width: 80%;
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 10rem;
+}
+
+.closeModal {
+  color: rgb(0, 0, 0);
+  float: right;
+  font-size: 5rem;
+  align-self: flex-end;
+}
+
+.closeModal:hover,
+.closeModal:focus {
+  color: #fff;
+  cursor: pointer;
+}
+
+@media (max-width: 560px) {
+  .contact-p {
+    font-size: 1.1rem;
+  }
+}
+
+@media (min-width: 600px) {
+  .contact-div {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+  }
+
+}

@@ -1,0 +1,20 @@
+.section {
+  grid-area: 2 / 1 / span 6 / span 8;
+  margin: 2rem;
+  color: var(--subpage-font-clr);
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.subpage-h1 {
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--link-clr);
+  font-size: 1rem;
+}

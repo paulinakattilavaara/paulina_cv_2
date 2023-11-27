@@ -1,0 +1,49 @@
+.cv {
+  font-size: 0.9rem;
+}
+
+.cv-h2 {
+  font-size: 1.1rem;
+  margin: 0.8rem;
+}
+
+.content {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 1.5rem;
+}
+
+.content-edu:hover, .content-work:hover, .content-summer:hover {
+  background-color: var(--nav-clr);
+  border-radius: 8px;
+}
+
+.section {
+  margin: 1rem;
+  gap: 2rem;
+  align-items: center;
+}
+
+.painting,
+.supermarket,
+.woods {
+  max-height: 15rem;
+}
+
+@media (max-width: 990px) {
+  .painting,
+  .supermarket,
+  .woods {
+    max-height: 10rem;
+  }
+
+  .section {
+    gap: 0.5rem;
+  }
+}
+
+@media (max-width: 590px) {
+  .images {
+    display: none;
+  }
+}

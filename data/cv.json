@@ -1,0 +1,36 @@
+{
+  "Education": [
+    {
+      "Year": "2023-2025",
+      "Programme": "Fullstack JavaScript Extended, Chas Academy"
+    },
+    {
+      "Year": "2007-2010",
+      "Programme": "Aesthetics Programme, Arts & Form"
+    }
+  ],
+  "Work": [
+    {
+      "Year": "2011-2023",
+      "Work": "Ica Maxi Luleå Supermarket"
+    }
+  ],
+  "Internships": [
+    {
+      "Year": 2009,
+      "Work": "Tuna Strand Retirement home"
+    },
+    {
+      "Year": 2008,
+      "Work": "Park work, Luleå municipality"
+    },
+    {
+      "Year": 2006,
+      "Work": "Pearl Shop"
+    },
+    {
+      "Year": 2006,
+      "Work": "Restaurant Södra Hamnpaviljongen"
+    }
+  ]
+}
