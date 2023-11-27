@@ -2,7 +2,7 @@
 
 _Av Paulina Kattilavaara_
 
-[Länk till min sida på GitHub Pages](https://github.com/paulinakattilavaara)
+[Länk till min sida på GitHub Pages](https://paulinakattilavaara.github.io/paulina_cv_2/)
 
 ## Om min nya dynamiska CV-sida ✨
 
