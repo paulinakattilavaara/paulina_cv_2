@@ -9,6 +9,7 @@ const leftBtn = document.getElementById("left-btn");
 let pictures = [
   "./img/margaret.png",
   "./img/number_guessing.png",
+  "./img/random_bg.png",
   "./img/playing_card2.png",
   "./img/responsive_menu.jpg",
   "./img/chas_header.jpg",

@@ -129,7 +129,7 @@ body {
 }
 
 .project-2 {
-  background-image: url(../img/margaret.png);
+  background-image: url(../img/random_bg.png);
   grid-area: 6 / 5 / span 1 / span 4;
 }
 
@@ -139,7 +139,7 @@ body {
 }
 
 .project-4 {
-  background-image: url(../img/chas_header.jpg);
+  background-image: url(../img/responsive_menu.jpg);
   grid-area: 7 / 5 / span 1 / span 4;
 }
 
